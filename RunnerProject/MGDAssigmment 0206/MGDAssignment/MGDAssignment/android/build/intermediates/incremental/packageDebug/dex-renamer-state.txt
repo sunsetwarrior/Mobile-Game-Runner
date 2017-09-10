@@ -1,0 +1,4 @@
+#Sun Sep 10 06:46:31 ACST 2017
+base.0=C\:\\Users\\fan\\Desktop\\fanzy009_20680E\\MGDAssigmment 0606\\MGDAssigmment 0206\\MGDAssignment\\MGDAssignment\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\fan\\Desktop\\fanzy009_20680E\\MGDAssigmment 0606\\MGDAssigmment 0206\\MGDAssignment\\MGDAssignment\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fan\Desktop\fanzy009_20680E\MGDAssigmment 0606\MGDAssigmment 0206\MGDAssignment\MGDAssignment\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42822236fffd34dee799674f7d320ad8f4a11896">
+        <dex dex="C:\Users\fan\Desktop\fanzy009_20680E\MGDAssigmment 0606\MGDAssigmment 0206\MGDAssignment\MGDAssignment\android\build\intermediates\pre-dexed\debug\core-1.0_97bc087dbf84f49458f171d4b53cc7507518848e.jar" />
+    </item>
+
+</items>
